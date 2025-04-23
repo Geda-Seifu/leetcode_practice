@@ -6,4 +6,8 @@ class Solution:
             count += 1
         return count
     
-    print
+new= Solution()
+
+print(new.countOdds(3,7))
+print(new.countOdds(3,8))
+
